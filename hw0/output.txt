@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Huri
+   last: Ma
+email: hm1692@nyu.edu
+leaderboard: nerokapa
